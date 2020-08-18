@@ -1,2 +1,2 @@
 # mytest
-python programs to learn
+programs to learn
